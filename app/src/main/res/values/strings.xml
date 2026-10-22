@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BT</string>
+
+    <string name="title_register">Đăng kí</string>
+    <string name="title_detail">Chi tiết</string>
+
+    <string name="hint_name">Họ tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_msv">Mã sinh viên</string>
+    <string name="hint_class">Lớp</string>
+
+    <string name="btn_register">Đăng kí</string>
+    <string name="btn_back">Quay lại trang Đăng kí</string>
+
+    <string name="err_name_empty">Vui lòng nhập họ tên</string>
+    <string name="err_name_short">Họ tên phải có ít nhất 2 ký tự</string>
+    <string name="err_name_invalid">Họ tên chỉ gồm chữ cái và khoảng trắng</string>
+
+    <string name="err_email_empty">Vui lòng nhập email</string>
+    <string name="err_email_invalid">Email không hợp lệ (vd: abc@gmail.com)</string>
+
+    <string name="err_phone_empty">Vui lòng nhập số điện thoại</string>
+    <string name="err_phone_invalid">SĐT không hợp lệ (10 số, bắt đầu 03/05/07/08/09)</string>
+
+    <string name="err_msv_empty">Vui lòng nhập mã sinh viên</string>
+    <string name="err_msv_invalid">Mã sinh viên phải gồm đúng 13 chữ số</string>
+
+    <string name="err_class_empty">Vui lòng nhập lớp</string>
+    <string name="err_class_invalid">Lớp chỉ gồm chữ, số và dấu gạch ngang (vd: 126LTTD02-T5)</string>
+</resources>
